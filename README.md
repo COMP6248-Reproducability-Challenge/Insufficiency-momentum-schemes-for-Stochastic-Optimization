@@ -3,3 +3,5 @@ A reproduction of the 'On the Insufficiency of Existing Momentum Schemes for Sto
 
 Paper link:
 https://arxiv.org/abs/1803.05591
+
+All source code were implemented through Google Colab platform. 
